@@ -1,0 +1,6 @@
+package com.example.verygoodcore.joinrs_flutter_challenge
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

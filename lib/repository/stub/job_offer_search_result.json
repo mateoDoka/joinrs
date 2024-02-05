@@ -1,0 +1,1084 @@
+[
+  {
+    "id": 37385,
+    "position": "Industry X - SAP Academy Trainee Program - Internship",
+    "score": 1,
+    "employer": "Accenture",
+    "locations": [
+      "Padua",
+      "Milan"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 23873,
+    "position": "Global Case Resolution Intern",
+    "score": 0.95,
+    "employer": "Roche",
+    "locations": [
+      "Sant Cugat del Vallès"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 35289,
+    "position": "Junior Software Developer – Deloitte Nexthub Bari",
+    "score": 0.925,
+    "employer": "Deloitte",
+    "locations": [
+      "Bari"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 39981,
+    "position": "Junior Consultant Developer - Torino",
+    "score": 0.8999999999999999,
+    "employer": "EY",
+    "locations": [
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37398,
+    "position": "Technology Trainee Program [Online/Phone Recruitment]",
+    "score": 0.95,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Assago",
+      "Turin"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37391,
+    "position": "Accenture Technology Academy – Napoli, Cagliari e Cosenza [Online/Phone Recruitment]",
+    "score": 0.95,
+    "employer": "Accenture",
+    "locations": [
+      "Naples",
+      "Cagliari",
+      "Rende"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37389,
+    "position": "Accenture Technology Software Engineer – Napoli, Cagliari e Bari [Online/Phone Recruitment]",
+    "score": 0.95,
+    "employer": "Accenture",
+    "locations": [
+      "Naples",
+      "Bari",
+      "Cagliari"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37383,
+    "position": "Junior Innovator Technology Academy – Cosenza [Online/Phone Recruitment]",
+    "score": 0.95,
+    "employer": "Accenture",
+    "locations": [
+      "Rende"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37359,
+    "position": "Devops - Backend software developer",
+    "score": 0.9166666666666665,
+    "employer": "Live Reply",
+    "locations": [
+      "Milan",
+      "Turin"
+    ],
+    "type": "Graduate program"
+  },
+  {
+    "id": 37400,
+    "position": "Cloud Transformation Internship [Online/Phone Recruitment]",
+    "score": 0.8999999999999999,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Assago"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37357,
+    "position": "Full Stack Developer - Customer Experience&Engagement",
+    "score": 0.8999999999999999,
+    "employer": "Live Reply",
+    "locations": [
+      "Milan",
+      "Turin"
+    ],
+    "type": "Graduate program"
+  },
+  {
+    "id": 37173,
+    "position": "Beca Talentum - Prototipado de inteligencia artificial y sistemas cognitivos",
+    "score": 0.8999999999999999,
+    "employer": "Telefónica",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37358,
+    "position": "5G Applications: Full Stack software developer\r\n\r\n",
+    "score": 0.8899999999999999,
+    "employer": "Live Reply",
+    "locations": [
+      "Milan",
+      "Turin"
+    ],
+    "type": "Graduate program"
+  },
+  {
+    "id": 41365,
+    "position": "Beca Talentum - AIOPs for Entertainment Services",
+    "score": 0.8833333333333333,
+    "employer": "Telefónica",
+    "locations": [
+      "Valladolid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 41179,
+    "position": "#BECA-AHE Internship SAP FI-SD-Data Science",
+    "score": 0.8833333333333333,
+    "employer": "Airbus",
+    "locations": [
+      "Albacete"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 39608,
+    "position": "Junior Software Engineer - Full Stack",
+    "score": 0.8833333333333333,
+    "employer": "Start & Go Innovative Solutions",
+    "locations": [
+      "Rome",
+      "Siena",
+      "Bologna",
+      "Parma",
+      "Milan"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 42626,
+    "position": "Beca Talentum - Prototipado de Inteligencia Artificial en dispositivos",
+    "score": 0.8785714285714286,
+    "employer": "Telefónica",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 41159,
+    "position": "Full stack engineer",
+    "score": 0.8699999999999999,
+    "employer": "Blue Reply",
+    "locations": [
+      "Rome",
+      "Florence",
+      "Bologna",
+      "Bari",
+      "Padua",
+      "Silea",
+      "Milan",
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 41158,
+    "position": "Software Engineer",
+    "score": 0.8699999999999999,
+    "employer": "Blue Reply",
+    "locations": [
+      "Rome",
+      "Florence",
+      "Bologna",
+      "Bari",
+      "Padua",
+      "Silea",
+      "Milan",
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 36612,
+    "position": "Beca Talentum - QA-Data Analytics",
+    "score": 0.8699999999999999,
+    "employer": "Telefónica",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 36609,
+    "position": "Beca Talentum LAB - Data Driven Operations",
+    "score": 0.8699999999999999,
+    "employer": "Telefónica",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 36066,
+    "position": "DevOps API - Intern [DIG]",
+    "score": 0.8599999999999999,
+    "employer": "PwC",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37399,
+    "position": "Junior Software Engineer [Online / Phone Recruitment]",
+    "score": 0.8499999999999999,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Verona",
+      "Assago",
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37350,
+    "position": "Junior Full Stack Developer (Programador)",
+    "score": 0.8499999999999999,
+    "employer": "Joinrs España",
+    "locations": [
+      "Madrid",
+      "Valencia",
+      "Seville",
+      "Barcelona"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 36139,
+    "position": "Digital Full-Stack Developer",
+    "score": 0.8499999999999999,
+    "employer": "Ariston Group",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 38137,
+    "position": "Internship SAP",
+    "score": 0.8999999999999999,
+    "employer": "IBM",
+    "locations": [
+      "Naples",
+      "Bari"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 38138,
+    "position": "Internship Cloud FullStack",
+    "score": 0.8500000000000001,
+    "employer": "IBM",
+    "locations": [
+      "Naples",
+      "Bari"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37870,
+    "position": "Academy .Net",
+    "score": 0.8333333333333333,
+    "employer": "Betacom Group",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 21025,
+    "position": "Becas Talentum - Unidades Globales",
+    "score": 0.825,
+    "employer": "Telefónica",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 38609,
+    "position": "Complaint Investigation Expert",
+    "score": 0.8200000000000001,
+    "employer": "Roche",
+    "locations": [
+      "Sant Cugat del Vallès"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 36365,
+    "position": "Data Engineer – Internship",
+    "score": 0.8200000000000001,
+    "employer": "Generali Italia",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 39771,
+    "position": "Technology Brand Technical Specialist - zStack",
+    "score": 0.8166666666666667,
+    "employer": "IBM",
+    "locations": [
+      "Rome",
+      "Segrate"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37041,
+    "position": "Delivery Consultant Technology Expert Labs",
+    "score": 0.8166666666666667,
+    "employer": "IBM",
+    "locations": [
+      "Rome"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 12939,
+    "position": "2023 Demand Generation Rep Intern (Dutch, German, Swedish or Finnish Speaker), AWS Public Sector ",
+    "score": 0.8111111111111111,
+    "employer": "Amazon ",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 43773,
+    "position": "BlueCamp Internship Program: AI Engineer Intern",
+    "score": 0.8,
+    "employer": "IBM",
+    "locations": [
+      "Madrid",
+      "Barcelona"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 39826,
+    "position": "Associate Application Developer - Cloud Full Stack (New Graduates)",
+    "score": 0.8,
+    "employer": "IBM",
+    "locations": [
+      "Naples",
+      "Bari"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37421,
+    "position": "Junior System Integration Analyst",
+    "score": 0.6583333333333332,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Verona",
+      "Assago",
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37395,
+    "position": "Innovation Technology Internship",
+    "score": 0.6583333333333332,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Verona",
+      "Assago",
+      "Turin"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37367,
+    "position": "Junior SAP Analyst - Area Triveneto",
+    "score": 0.6583333333333332,
+    "employer": "Accenture",
+    "locations": [
+      "Padua"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 38024,
+    "position": "Junior Software Engineer",
+    "score": 0.625,
+    "employer": "Leonardo",
+    "locations": [
+      "Rome"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37371,
+    "position": "Cloud Transformations Analyst [Online/PhoneRecruitment]",
+    "score": 0.625,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Assago",
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37761,
+    "position": "Development Tester (Internship) - Rainbow Six Siege",
+    "score": 0.8,
+    "employer": "Ubisoft",
+    "locations": [
+      "Barcelona"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 31540,
+    "position": "Junior DevOps - Stage",
+    "score": 0.6,
+    "employer": "Reti",
+    "locations": [
+      "Busto Arsizio"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 34606,
+    "position": "Intership Procurement Department",
+    "score": 0.5833333333333333,
+    "employer": "Siemens Gamesa",
+    "locations": [
+      "Sarriguren"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 22487,
+    "position": "Working student for NPI Technology TransferManufacturing Engineering Blades",
+    "score": 0.5833333333333333,
+    "employer": "Siemens Gamesa",
+    "locations": [
+      "Pamplona"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 38955,
+    "position": "AC - Process Innovation Support (INTERNSHIP)",
+    "score": 0.77,
+    "employer": "Samsung",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 20932,
+    "position": "Wavemaker | TECH INNOVATION DEVELOPER INTERNSHIP - student",
+    "score": 0.7666666666666666,
+    "employer": "WPP",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 40226,
+    "position": "Aftermarket Sales Trainee",
+    "score": 0.5611111111111111,
+    "employer": "Siemens Gamesa",
+    "locations": [
+      "Madrid",
+      "Sarriguren"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 43445,
+    "position": "Junior Java Developer",
+    "score": 0.75,
+    "employer": "dentsu",
+    "locations": [
+      "Barcelona"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 42494,
+    "position": "Trainee Havas Legal",
+    "score": 0.55,
+    "employer": "Havas",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 42303,
+    "position": "BECA GENERALI YOUNG LIONS (ADE/Economía) - Barcelona",
+    "score": 0.55,
+    "employer": "Generali España",
+    "locations": [
+      "Barcelona"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 42285,
+    "position": "Becario/a Talent & Engagement",
+    "score": 0.55,
+    "employer": "Ferrovial",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 35290,
+    "position": "Cyber Security Junior - Deloitte NextHub Bari",
+    "score": 0.55,
+    "employer": "Deloitte",
+    "locations": [
+      "Bari"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37440,
+    "position": "FutureShaper - Graduate Program",
+    "score": 0.5892857142857142,
+    "employer": "TeamSystem",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Graduate program"
+  },
+  {
+    "id": 42290,
+    "position": "Beca Edificación/Arquitectura - Valladolid",
+    "score": 0.6000000000000001,
+    "employer": "Ferrovial",
+    "locations": [
+      "Valladolid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37401,
+    "position": "Cloud Enablement Training Program [Online / Phone Recruitment]",
+    "score": 0.6000000000000001,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Verona",
+      "Milan",
+      "Turin"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37394,
+    "position": "Cloud & Infrastructure Pink Academy",
+    "score": 0.55,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Verona",
+      "Milan",
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 21032,
+    "position": "¡Únete a Telefónica!",
+    "score": 0.55,
+    "employer": "Telefónica",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 32777,
+    "position": "Junior Innovation Specialist",
+    "score": 0.5428571428571429,
+    "employer": "Digital360",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 43740,
+    "position": "#DISCOVER I 2023 PRODUCTION SUPPORT",
+    "score": 0.425,
+    "employer": "Airbus",
+    "locations": [
+      "Getafe"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37484,
+    "position": "BECAS FLOW YOUR TALENT ENDESA 2024",
+    "score": 0.425,
+    "employer": "Endesa",
+    "locations": [
+      "Madrid",
+      "Andalusia",
+      "Galicia",
+      "Barcelona",
+      "Balearic Islands",
+      "Canary Islands"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 36802,
+    "position": "Governance, Risk and Compliance | New Joiner 2024",
+    "score": 0.54,
+    "employer": "PwC España",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 40088,
+    "position": "Stage in area Security [Online / Phone Recruitment]",
+    "score": 0.5333333333333333,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Naples",
+      "Bari",
+      "Assago",
+      "Milan",
+      "Turin"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 38967,
+    "position": "Stage Redazione Scientifica",
+    "score": 0.5333333333333333,
+    "employer": "Gruppo Mondadori",
+    "locations": [
+      "Segrate"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37424,
+    "position": "Neolaureati - Consulting Analyst",
+    "score": 0.5333333333333333,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Milan"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37411,
+    "position": "Data & AI - Data Junior",
+    "score": 0.5333333333333333,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Milan"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37387,
+    "position": "Data & Analytics Analyst - BARI, ROMA",
+    "score": 0.5333333333333333,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Bari"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 36818,
+    "position": "Trainee Demand Planning & Fulfillment (M/F/D) – 12 months Internship – Spain (Madrid) – March 2024",
+    "score": 0.5333333333333333,
+    "employer": "Mondelēz International",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 20930,
+    "position": "Administrative Assistant Intern - HQ (They/She/He)",
+    "score": 0.5333333333333333,
+    "employer": "Glovo",
+    "locations": [
+      "Barcelona"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 38313,
+    "position": "Operations Data Analyst (They/She/He)",
+    "score": 0.5222222222222221,
+    "employer": "Glovo",
+    "locations": [
+      "Barcelona"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37747,
+    "position": "Wavemaker | Media Buying & Data Analyst Specialist",
+    "score": 0.5222222222222221,
+    "employer": "WPP",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 33961,
+    "position": "Stage Formazione e-learning D Scuola",
+    "score": 0.52,
+    "employer": "Gruppo Mondadori",
+    "locations": [
+      "Segrate"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 22485,
+    "position": "Working Student - Tower Structural Commodity Management (f/m/x)",
+    "score": 0.5181818181818182,
+    "employer": "Siemens Gamesa",
+    "locations": [
+      "Madrid",
+      "Pamplona",
+      "Seville"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 43162,
+    "position": "Research Analyst - Internal",
+    "score": 0.5166666666666666,
+    "employer": "NielsenIQ",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 43159,
+    "position": "Research Analyst - Internal",
+    "score": 0.5166666666666666,
+    "employer": "NielsenIQ",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37867,
+    "position": "INTERNSHIP - NEW GRADUATE ENGINEERS",
+    "score": 0.5166666666666666,
+    "employer": "a2a",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 19984,
+    "position": "Stage Sales Support",
+    "score": 0.5166666666666666,
+    "employer": "BNP Paribas",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 31462,
+    "position": "Retail Vertical trainee",
+    "score": 0.5142857142857142,
+    "employer": "NielsenIQ",
+    "locations": [
+      "Portugalete"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 40924,
+    "position": "Business Intelligence Consultant",
+    "score": 0.5125,
+    "employer": "Wolters Kluwer",
+    "locations": [
+      "Lucca"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 40923,
+    "position": "Solution Consultant",
+    "score": 0.51,
+    "employer": "Wolters Kluwer",
+    "locations": [
+      "Lucca"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 42833,
+    "position": "Junior Data Engineer",
+    "score": 0.5066666666666666,
+    "employer": "QiBit",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 42304,
+    "position": "BECA GENERALI YOUNG LIONS (Ingeniería) - Madrid",
+    "score": 0.5,
+    "employer": "Generali España",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 41215,
+    "position": "QA Granada Tech Center- Intern",
+    "score": 0.5,
+    "employer": "Abbott",
+    "locations": [
+      "Granada",
+      "Las Cruces"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 40990,
+    "position": "Beca Ofertas",
+    "score": 0.5,
+    "employer": "Acciona",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 40989,
+    "position": "Beca Técnico Calidad y documentación técnica",
+    "score": 0.5,
+    "employer": "Acciona",
+    "locations": [
+      "Barcelona"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 40988,
+    "position": "Beca Gestor/a Calidad Limpieza",
+    "score": 0.5,
+    "employer": "Acciona",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 40605,
+    "position": "Junior Data Engineer",
+    "score": 0.5,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Assago",
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 39995,
+    "position": "Innovation Consultant - Consultor de innovación",
+    "score": 0.5,
+    "employer": "Joinrs España",
+    "locations": [
+      "Madrid",
+      "Valencia",
+      "Seville",
+      "Barcelona"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 37420,
+    "position": "Security Analyst [Online / Phone Recruitment]",
+    "score": 0.5,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Assago"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 37396,
+    "position": "Neolaureati/e Appassionati/e di Tecnologia [Online/Phone Recruitment]",
+    "score": 0.5,
+    "employer": "Accenture",
+    "locations": [
+      "Rome",
+      "Assago",
+      "Turin"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 36803,
+    "position": "GRC Financiero Riesgos y Regulación I New Joiners 2024 Madrid",
+    "score": 0.5,
+    "employer": "PwC España",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 36693,
+    "position": "GRC Financiero | New Joiner 2024 Madrid",
+    "score": 0.5,
+    "employer": "PwC España",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 36692,
+    "position": "GRC Financiero | New Joiner 2024 Barcelona",
+    "score": 0.5,
+    "employer": "PwC España",
+    "locations": [
+      "Barcelona"
+    ],
+    "type": "Entry Level"
+  },
+  {
+    "id": 35687,
+    "position": "Junior Project Manager - Gerente de Proyectos Junior",
+    "score": 0.5,
+    "employer": "Joinrs España",
+    "locations": [
+      "Madrid",
+      "Valencia",
+      "Seville",
+      "Barcelona"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 32930,
+    "position": "Beca Trading Compliance",
+    "score": 0.5,
+    "employer": "Endesa",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 30679,
+    "position": "Beca Ciberseguridad",
+    "score": 0.5,
+    "employer": "Acciona",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 30435,
+    "position": "Business Analyst Intern",
+    "score": 0.5,
+    "employer": "Amazon ",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 28110,
+    "position": "Data Center Technician Intern",
+    "score": 0.5,
+    "employer": "Amazon ",
+    "locations": [
+      "Zaragoza"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 27674,
+    "position": "Solutions Architect Intern",
+    "score": 0.5,
+    "employer": "Amazon ",
+    "locations": [
+      "Madrid"
+    ],
+    "type": "Internship"
+  },
+  {
+    "id": 18163,
+    "position": "STAGE TECHNICAL DEPARTMENT",
+    "score": 0.5,
+    "employer": "Gruppo Mondadori",
+    "locations": [
+      "Milan"
+    ],
+    "type": "Internship"
+  }
+]
