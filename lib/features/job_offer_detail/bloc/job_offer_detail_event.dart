@@ -9,3 +9,8 @@ class JobOfferDetailViewInitialEvent extends JobOfferDetailEvent {
   @override
   List<Object> get props => [];
 }
+
+class ToggleDescriptionEvent extends JobOfferDetailEvent {
+  @override
+  List<Object?> get props => [];
+}

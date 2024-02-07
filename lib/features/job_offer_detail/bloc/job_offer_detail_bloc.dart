@@ -9,16 +9,21 @@ part 'job_offer_detail_state.dart';
 
 class JobOfferDetailBloc
     extends Bloc<JobOfferDetailEvent, JobOfferDetailState> {
-  JobOfferDetailBloc({required JobOfferRepository jobOfferRepository})
+  final JobOfferRepository jobOfferRepository;
+
+  JobOfferDetailBloc({required this.jobOfferRepository})
       : super(JobOfferDetailInitial()) {
-    on<JobOfferDetailEvent>((event, emit) {
-      // TODO: implement event handler
-    });
     on<JobOfferDetailViewInitialEvent>((event, emit) async {
       emit(state.loading());
       final jobOffers = await jobOfferRepository.getJobOffersDetails();
-
-      emit(state.loaded(jobOffers: jobOffers, isExpanded: false));
+      emit(JobOfferDetailViewLoaded(jobOffers: jobOffers, isExpanded: false));
+    });
+//update the state when the value of isExpanded changes
+    on<ToggleDescriptionEvent>((event, emit) {
+      if (state is JobOfferDetailViewLoaded) {
+        final currentState = state as JobOfferDetailViewLoaded;
+        emit(currentState.copyWith(isExpanded: !currentState.isExpanded));
+      }
     });
 
     add(JobOfferDetailViewInitialEvent());

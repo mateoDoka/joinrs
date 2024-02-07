@@ -23,11 +23,25 @@ class JobOfferDetailInitial extends JobOfferDetailViewLoading {
 }
 
 class JobOfferDetailViewLoaded extends JobOfferDetailState {
-  JobOfferDetailViewLoaded({required this.jobOffers, required this.isExpanded});
+  JobOfferDetailViewLoaded({
+    required this.jobOffers,
+    required this.isExpanded,
+  });
 
   final JobOfferItem jobOffers;
-  bool isExpanded;
+  final bool isExpanded;
 
   @override
   List<Object> get props => [jobOffers, isExpanded];
+
+  //change the state with updated values
+  JobOfferDetailViewLoaded copyWith({
+    JobOfferItem? jobOffers,
+    bool? isExpanded,
+  }) {
+    return JobOfferDetailViewLoaded(
+      jobOffers: jobOffers ?? this.jobOffers,
+      isExpanded: isExpanded ?? this.isExpanded,
+    );
+  }
 }
